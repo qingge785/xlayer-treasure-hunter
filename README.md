@@ -15,7 +15,7 @@ X Layer Treasure Hunter 是一个游戏化的可复用 Agent Skill。
   - uniswap/uniswap-ai（Swap 路径优化、流动性分析）
 
 ## Agentic Wallet（链上身份）
-- 钱包地址：`0x...`
+- 钱包地址：`0x34ad070cdd36aab490d55d30d3e361b69c13c87e24`
 - 用途：作为 Treasure Hunter 的链上执行身份，用于演示宝箱开箱（Swap / LP 操作）
 
 （如果有多个 Agent，请在这里列出各自角色，例如：
