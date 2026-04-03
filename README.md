@@ -43,4 +43,4 @@ X Layer Treasure Hunter 是一个游戏化的可复用 Agent Skill。
 
 ## 安装方式
 ```bash
-npx skills add 你的用户名/xlayer-treasure-hunter
+npx skills add qingge785/xlayer-treasure-hunter
