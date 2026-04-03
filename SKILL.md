@@ -2,7 +2,7 @@
 name: X Layer Treasure Hunter
 description: 把 OKX X Layer Uniswap DeFi 机会变成冒险寻宝游戏的创意 Skill。实时发现高收益流动性池，评估宝箱稀有度（SSR/传说级），用 Onchain OS Skill 安全执行交易，并生成猎人战绩榜。Build-X Hackathon Skills Arena 参赛作品。
 version: 1.0.0
-author: [你的 GitHub 用户名或名字]
+author: [qingge]
 tags: [xlayer, onchainos, uniswap, defi, treasure-hunt, game, yield, hackathon]
 requires: ["okx/onchainos-skills", "uniswap/uniswap-ai"]
 ---
