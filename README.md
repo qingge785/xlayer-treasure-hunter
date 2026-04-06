@@ -18,11 +18,6 @@ X Layer Treasure Hunter 是一个游戏化的可复用 Agent Skill。
 - 钱包地址：`0x34ad070cdd36aab490d55d30d3e361b69c13c87e24`
 - 用途：作为 Treasure Hunter 的链上执行身份，用于演示宝箱开箱（Swap / LP 操作）
 
-（如果有多个 Agent，请在这里列出各自角色，例如：
-- Scout Agent：负责发现新池
-- Appraiser Agent：评估宝箱价值
-- Executor Agent：执行交易）
-
 ## Onchain OS Skill & Uniswap Skill 使用情况
 - **Onchain OS Skill**：用于实时市场数据、代币发现、钱包余额查询、DEX Swap 执行和交易广播
 - **Uniswap AI Skill**：用于最佳 Swap 路径计算、流动性深度分析和 APY 估算
